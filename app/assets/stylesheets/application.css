@@ -13,3 +13,20 @@
  *= require_tree .
  *= require_self
  */
+
+.wrapper {
+  background-color: silver;
+  height: 50vh;
+  margin-top: 10vh;
+}
+
+.container {
+  background-color: grey;
+  height: 100%;
+  padding-top: 5%;
+}
+
+.p-answer {
+  background-color: white;
+  padding: 10px;
+}
